@@ -1,3 +1,5 @@
 deps/
 build/
 .gdb_history
+.cache
+subprojects/
